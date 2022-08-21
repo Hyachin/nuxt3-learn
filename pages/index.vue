@@ -11,6 +11,8 @@
     <NuxtLink to="/tryLazy">try lazy-loading component</NuxtLink>
     <br />
     <NuxtLink to="/tryComposables">try composables</NuxtLink>
+    <br />
+    <NuxtLink to="/articleList">try fetch data</NuxtLink>
   </div>
 </template>
 
