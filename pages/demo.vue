@@ -1,8 +1,5 @@
 <template>
-  <div class="">
-    demo
-    <NuxtLink to="/">go to index</NuxtLink>
-  </div>
+  <div class="">demo</div>
 </template>
 
 <script setup>

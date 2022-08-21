@@ -2,8 +2,6 @@
   <div class="">
     <!-- [id] id占位 [[name]] name 是可选的 -->
     用户id - {{ id }}
-    <br />
-    <NuxtLink to="/">go to index</NuxtLink>
   </div>
 </template>
 
