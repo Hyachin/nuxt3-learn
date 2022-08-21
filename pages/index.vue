@@ -13,6 +13,8 @@
     <NuxtLink to="/tryComposables">try composables</NuxtLink>
     <br />
     <NuxtLink to="/articleList">try fetch data</NuxtLink>
+    <br />
+    <NuxtLink to="/you">try per-route guard </NuxtLink>
   </div>
 </template>
 
