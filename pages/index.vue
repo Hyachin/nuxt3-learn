@@ -7,6 +7,8 @@
     <NuxtLink to="/user/1">go to user with param id = 1</NuxtLink>
     <br />
     <NuxtLink to="/father/son/grandson">try nested routes</NuxtLink>
+    <br />
+    <NuxtLink to="/tryLazy">try lazy-loading component</NuxtLink>
   </div>
 </template>
 
