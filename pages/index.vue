@@ -9,6 +9,8 @@
     <NuxtLink to="/father/son/grandson">try nested routes</NuxtLink>
     <br />
     <NuxtLink to="/tryLazy">try lazy-loading component</NuxtLink>
+    <br />
+    <NuxtLink to="/tryComposables">try composables</NuxtLink>
   </div>
 </template>
 
